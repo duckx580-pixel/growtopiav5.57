@@ -1,0 +1,4 @@
+EnableSQLChatFilter: 'true'
+ChatFilterWebApiOverride: api.growtopiagame.com
+EnableNewFTUE: 'true'
+MaxWardrobePresets: '4'
